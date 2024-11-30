@@ -9,7 +9,7 @@
 
 I'm a Full Stack Developer with 1+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
-## Conhecimentos / Knowledges
+## Knowledges
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP&)
@@ -26,9 +26,9 @@ I'm a Full Stack Developer with 1+ years of hands-on experience designing, devel
 ![Laravel](https://img.shields.io/badge/-LaravelL-black?style=flat-square&logo=Laravel)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/-MySQLITE-black?style=flat-square&logo=mysqlite)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)]
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
